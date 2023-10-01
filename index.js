@@ -9,12 +9,7 @@ const socketIo = require("socket.io");
 
 const app = express();
 const server = http.createServer(app);
-const io = socketIo(server, {
-  cors: {
-    origin: "https://chatapp-lime-one.vercel.app/",
-    credentials: true,
-  },
-});
+const io = socketIo(server);
 require("dotenv").config();
 
 mongoose
