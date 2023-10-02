@@ -15,7 +15,7 @@
       "dest": "index.js"
     },
     {
-      "src": "/socket.io/(.+)",
+      "src": "/socket.io/(.*)",
       "dest": "index.js"
     },
     {
