@@ -2,7 +2,7 @@
 ![Login](https://github.com/NehalSurti/Chat-App-MERN/assets/127222956/bf33e43a-3a80-4a33-828f-81bc3fdf201b)
 ![snappy](https://github.com/NehalSurti/Chat-App-MERN/assets/127222956/6d71635f-7f4e-4c93-b613-8eb02258a57f)
 
-###Project Summary:
+### Project Summary:
 
 1. **Objective**: Develop a real-time chat application using React, Node.js, and Socket.io.
    
