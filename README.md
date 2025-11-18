@@ -120,9 +120,8 @@ flowchart TB
     class External,D1 external;
 ```
 
-## Images
+## 🎥 Demo Videos
 
-![Login](https://github.com/NehalSurti/Chat-App-MERN/assets/127222956/bf33e43a-3a80-4a33-828f-81bc3fdf201b)
-![snappy](https://github.com/NehalSurti/Chat-App-MERN/assets/127222956/6d71635f-7f4e-4c93-b613-8eb02258a57f)
+https://github.com/user-attachments/assets/4cf7208f-da42-4d49-b17c-e0b15416d370
 
 
